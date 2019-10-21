@@ -1,0 +1,2 @@
+# WechatOpenSDKVersions
+WechatOpenSDK Versions
